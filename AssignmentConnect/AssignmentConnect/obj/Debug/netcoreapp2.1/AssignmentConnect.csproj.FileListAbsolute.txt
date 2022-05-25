@@ -1,0 +1,14 @@
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\bin\Debug\netcoreapp2.1\AssignmentConnect.deps.json
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\bin\Debug\netcoreapp2.1\AssignmentConnect.runtimeconfig.json
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\bin\Debug\netcoreapp2.1\AssignmentConnect.runtimeconfig.dev.json
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\bin\Debug\netcoreapp2.1\AssignmentConnect.dll
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\bin\Debug\netcoreapp2.1\AssignmentConnect.pdb
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\obj\Debug\netcoreapp2.1\AssignmentConnect.csprojAssemblyReference.cache
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\obj\Debug\netcoreapp2.1\AssignmentConnect.csproj.CoreCompileInputs.cache
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\obj\Debug\netcoreapp2.1\AssignmentConnect.RazorAssemblyInfo.cache
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\obj\Debug\netcoreapp2.1\AssignmentConnect.RazorAssemblyInfo.cs
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\obj\Debug\netcoreapp2.1\AssignmentConnect.AssemblyInfoInputs.cache
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\obj\Debug\netcoreapp2.1\AssignmentConnect.AssemblyInfo.cs
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\obj\Debug\netcoreapp2.1\AssignmentConnect.RazorTargetAssemblyInfo.cache
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\obj\Debug\netcoreapp2.1\AssignmentConnect.dll
+C:\Users\varnika.sharma\source\repos\AssignmentConnect\AssignmentConnect\obj\Debug\netcoreapp2.1\AssignmentConnect.pdb
